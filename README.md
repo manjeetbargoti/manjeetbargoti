@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[![<img align="left" alt="manjeetbargoti.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://manjeetbargoti.github.io)]
+[<img align="left" alt="manjeetbargoti.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://manjeetbargoti.github.io)
 [<img align="left" alt="manjeet_bargoti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="manjeetbargoti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="manjeet_bargoti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

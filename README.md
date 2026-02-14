@@ -34,14 +34,6 @@ I build production-grade systems — payment gateway integrations, plugins, APIs
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjeet_bargoti&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
